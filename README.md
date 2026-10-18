@@ -4,7 +4,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-light.svg" alt="Last auto-update time (PKT)" /></picture>
 
 <!--START_PORTFOLIO-->
-<sub>🌐 Portfolios (full-stack &amp; CRM) coming soon</sub>
+<sub>🌐 Portfolios: <a href="https://hammadiqbal6.github.io/fullstack-portfolio/"><b>Full-stack</b></a> · <a href="https://hammadiqbal6.github.io/crm-portfolio/"><b>CRM (SugarCRM / SuiteCRM)</b></a></sub>
 <!--END_PORTFOLIO-->
 </div>
 
