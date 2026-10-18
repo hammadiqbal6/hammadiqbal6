@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Hammad Iqbal: Full-Stack and CRM Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V200C1080 238 960 246 840 222C720 198 600 168 480 184C360 200 240 248 120 236C70 231 30 220 0 210Z"/>
+  <path fill="#ffffff" fill-opacity="0.12" d="M0 150C150 190 300 120 450 140C600 160 750 220 900 190C1020 166 1110 140 1200 150V200C1080 238 960 246 840 222C720 198 600 168 480 184C360 200 240 248 120 236C70 231 30 220 0 210Z"/>
+  <text x="600" y="102" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff">Hammad Iqbal</text>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="500" fill="#ffffff" fill-opacity="0.92" letter-spacing="1">Full-Stack &amp; CRM Developer · Laravel · Next.js · React · Node</text>
+</svg>
