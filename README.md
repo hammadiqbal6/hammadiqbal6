@@ -92,11 +92,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
+- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/crm-portfolio/pull/1) · `crm-portfolio` · today
+- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/fullstack-portfolio/pull/1) · `fullstack-portfolio` · today
 - ✅ [Auth hydration, cart checkout UX, and a11y polish](https://github.com/hammadiqbal6/Vanslife-react/pull/4) · `Vanslife-react` · today
 - ✅ [Mobile UX polish, 404 page, and dev ergonomics](https://github.com/hammadiqbal6/Promptopia/pull/3) · `Promptopia` · today
 - ✅ [Docs, screenshots, and fleet image polish](https://github.com/hammadiqbal6/Vanslife-react/pull/3) · `Vanslife-react` · today
-- ✅ [Add listing deep links by id for Expo web details](https://github.com/hammadiqbal6/Donewithit/pull/3) · `Donewithit` · today
-- ✅ [Complete DoneWithIt marketplace: extract backend, fix app, portfolio…](https://github.com/hammadiqbal6/Donewithit/pull/2) · `Donewithit` · today
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
