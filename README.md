@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push today
-- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push today
-- 🔨 [**realtor-clone-react**](https://github.com/hammadiqbal6/realtor-clone-react) · JavaScript: 9 commits in the last year, last push today
-- 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 8 commits in the last year, last push today
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push yesterday
+- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push yesterday
+- 🔨 [**fullstack-portfolio**](https://github.com/hammadiqbal6/fullstack-portfolio) · JavaScript: 12 commits in the last year, last push yesterday
+- 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 12 commits in the last year, last push yesterday
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/crm-portfolio/pull/1) · `crm-portfolio` · today
-- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/fullstack-portfolio/pull/1) · `fullstack-portfolio` · today
-- ✅ [Auth hydration, cart checkout UX, and a11y polish](https://github.com/hammadiqbal6/Vanslife-react/pull/4) · `Vanslife-react` · today
-- ✅ [Mobile UX polish, 404 page, and dev ergonomics](https://github.com/hammadiqbal6/Promptopia/pull/3) · `Promptopia` · today
-- ✅ [Docs, screenshots, and fleet image polish](https://github.com/hammadiqbal6/Vanslife-react/pull/3) · `Vanslife-react` · today
+- ✅ [Port selected pieces from the redesign onto the live CRM design](https://github.com/hammadiqbal6/crm-portfolio/pull/3) · `crm-portfolio` · yesterday
+- ✅ [Revert to PR #1 design + case-study projects (audit option b)](https://github.com/hammadiqbal6/fullstack-portfolio/pull/3) · `fullstack-portfolio` · yesterday
+- ✅ [Modernize portfolio with award-style 2026 design](https://github.com/hammadiqbal6/fullstack-portfolio/pull/2) · `fullstack-portfolio` · yesterday
+- ✅ [Polish host UX and run Playwright smoke in CI](https://github.com/hammadiqbal6/Vanslife-next/pull/3) · `Vanslife-next` · yesterday
+- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/crm-portfolio/pull/1) · `crm-portfolio` · yesterday
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
