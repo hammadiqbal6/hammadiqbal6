@@ -86,7 +86,7 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-light.svg" width="49%" alt="Top languages" /></picture>
 </p>
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-night-rainbow.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-green-animate.svg" width="98%" alt="3D contribution graph" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-night-rainbow.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-green-animate.svg" width="80%" alt="3D contribution graph" /></picture>
 </p>
 <p align="center"><sub>Cards are generated daily by <a href=".github/workflows/profile-assets.yml">a GitHub Action</a> in this repo (public, non-fork repos only).</sub></p>
 

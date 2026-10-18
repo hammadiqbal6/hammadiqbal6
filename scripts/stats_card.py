@@ -61,7 +61,7 @@ def card(title: str, body: str, c: dict) -> str:
   <defs>
     <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
   </defs>
-  <style>.h{{font:700 21px {FONT};fill:{c["title"]}}}.l{{font:15px {FONT};fill:{c["text"]}}}.v{{font:700 26px {FONT};fill:{c["value"]}}}.s{{font:600 14px {FONT};fill:{c["text"]}}}</style>
+  <style>.h{{font:700 21px {FONT};fill:{c["title"]}}}.l{{font:16px {FONT};fill:{c["text"]}}}.v{{font:700 26px {FONT};fill:{c["value"]}}}.s{{font:600 15px {FONT};fill:{c["text"]}}}</style>
   <rect x="1" y="1" width="598" height="248" rx="18" fill="{c["bg"]}" stroke="{c["border"]}"/>
   <rect x="28" y="30" width="4" height="22" rx="2" fill="url(#b)"/>
   <text x="42" y="48" class="h">{escape(title)}</text>
@@ -82,7 +82,7 @@ def overview(u: dict, c: dict) -> str:
     ]
     out = []
     for i, (label, val) in enumerate(items):
-        x, y = 42 + (i % 2) * 280, 104 + (i // 2) * 56
+        x, y = 42 + (i % 2) * 280, 100 + (i // 2) * 54
         out.append(f'<text x="{x}" y="{y}" class="v">{val}</text><text x="{x}" y="{y + 22}" class="l">{escape(label)}</text>')
     return card("GitHub overview", "".join(out), c)
 
