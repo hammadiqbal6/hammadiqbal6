@@ -21,7 +21,6 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 - 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push today
 - 🔨 [**realtor-clone-react**](https://github.com/hammadiqbal6/realtor-clone-react) · JavaScript: 9 commits in the last year, last push today
 - 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 8 commits in the last year, last push today
-- 🔒 plus 21 contributions to private projects (incl. the in-progress trading bots)
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
