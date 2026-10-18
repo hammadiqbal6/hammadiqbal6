@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Vanslife-next: Van-rental app with protected routes on the App Router">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#6366F1" stop-opacity="0.10"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .t { font: 700 25px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #1F2328; }
+    .desc { font: 17px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #57606A; }
+    .chip { font: 600 14px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #57606A; }
+    .st { font: 700 12px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #4338CA; letter-spacing: .5px; }
+  </style>
+  <rect x="1" y="1" width="598" height="198" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <rect x="1" y="1" width="598" height="198" rx="18" fill="url(#glow)"/>
+  <rect x="1" y="1" width="5" height="198" rx="2.5" fill="url(#b)"/>
+  <text x="28" y="57" font-size="26" font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif">🚐</text>
+  <text x="66" y="57" class="t">Vanslife-next</text>
+  <rect x="492" y="34" width="80" height="26" rx="13" fill="#EEF2FF"/>
+  <text x="532" y="51" text-anchor="middle" class="st">WEB APP</text>
+  <text x="28" y="96" class="desc">Van-rental app with protected routes</text><text x="28" y="120" class="desc">on the App Router</text>
+  <rect x="28" y="146" width="82" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/><text x="69" y="166" text-anchor="middle" class="chip">Next.js</text><rect x="118.19999999999999" y="146" width="65" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/><text x="151" y="166" text-anchor="middle" class="chip">React</text>
+</svg>
