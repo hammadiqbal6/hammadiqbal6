@@ -2,6 +2,10 @@
 <img src="./assets/header.svg" width="100%" alt="Hammad Iqbal: Full-Stack &amp; CRM Developer" />
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-light.svg" alt="Last auto-update time (PKT)" /></picture>
+
+<!--START_PORTFOLIO-->
+<sub>🌐 Portfolios: <a href="https://hammadiqbal6.github.io/fullstack-portfolio/"><b>Full-stack</b></a> · <a href="https://hammadiqbal6.github.io/crm-portfolio/"><b>CRM (SugarCRM / SuiteCRM)</b></a></sub>
+<!--END_PORTFOLIO-->
 </div>
 
 <img src="./assets/sections/about.svg" height="46" alt="About me" />
@@ -10,9 +14,6 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 
 - 🛠️ **Focus:** clean APIs, practical dashboards and automating business workflows
 - 📍 **Based in** Pakistan · open to freelance and full-time work
-<!--START_PORTFOLIO-->
-- 🌐 **Portfolios:** [Full-stack](https://hammadiqbal6.github.io/fullstack-portfolio/) · [CRM (SugarCRM / SuiteCRM)](https://hammadiqbal6.github.io/crm-portfolio/)
-<!--END_PORTFOLIO-->
 
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
