@@ -2,8 +2,8 @@
 """Build the static SVG assets for the profile README.
 
 Run: python3 scripts/build_assets.py
-Outputs to assets/ (header, section titles, divider, project cards in light & dark).
-Edit PROJECTS / SECTIONS below and re-run to update.
+Outputs to assets/ (header, section titles, divider).
+Project cards and stats are generated live by scripts/profile_dynamic.py.
 """
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -110,64 +110,12 @@ def divider() -> str:
 </svg>'''
 
 
-PROJECTS = [
-    # slug, emoji, title, one-liner (2 lines max), chips, status
-    ("fullstack-crm", "🗂️", "fullstack-crm", ["Visa-agency CRM: lead approvals, onboarding,", "5-role RBAC, PDF invoices and documents"], ["Laravel", "Next.js", "TypeScript", "Docker"], "CRM"),
-    ("bulk-excel", "📊", "bulk-excel", ["Bulk Excel import API for housing-scheme", "plot data, with a React upload UI"], ["Laravel", "Laravel Excel", "React", "Vite"], "Full-stack"),
-    ("crypto-trading-bot", "🤖", "crypto-trading-bot", ["Trend-following + news-sentiment crypto bot,", "paper trading first"], ["Python", "freqtrade"], "In progress · private"),
-    ("stock-trading-bot", "📈", "stock-trading-bot", ["Trend-following + news-sentiment stock bot,", "paper trading first"], ["Python", "Alpaca paper"], "In progress · private"),
-    ("Promptopia", "💬", "Promptopia", ["Prompt-sharing web app with", "MongoDB persistence"], ["Next.js", "MongoDB", "Tailwind"], "Web app"),
-    ("Donewithit", "📱", "Donewithit", ["Mobile marketplace app with an", "Express backend"], ["React Native", "Expo", "Express"], "Mobile"),
-    ("Vanslife-next", "🚐", "Vanslife-next", ["Van-rental app with protected routes", "on the App Router"], ["Next.js", "React"], "Web app"),
-    ("realtor-clone-react", "🏠", "realtor-clone-react", ["Realtor-style property listing", "clone"], ["React", "Tailwind"], "Web app"),
-]
-
-
-def card(p, theme: str) -> str:
-    slug, emoji, title, desc, chips, status = p
-    c = THEMES[theme]
-    wip = status.startswith("In progress")
-    sfill, stext = ("#FEF3C7", "#92400E") if wip and theme == "light" else ("#3B2F12", "#FCD34D") if wip else (c["chip"], c["chipText"])
-    sw = 24 + len(status) * 8
-    x, chip_svg = 28, []
-    for ch in chips:
-        w = 22 + len(ch) * 8.6
-        chip_svg.append(f'<rect x="{x}" y="146" width="{w:.0f}" height="30" rx="15" fill="{c["bg2"]}" stroke="{c["border"]}"/>'
-                        f'<text x="{x + w / 2:.0f}" y="166" text-anchor="middle" class="chip">{escape(ch)}</text>')
-        x += w + 8
-    d = "".join(f'<text x="28" y="{96 + i * 24}" class="desc">{escape(l)}</text>' for i, l in enumerate(desc))
-    return f'''
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="{escape(title)}: {escape(" ".join(desc))}">
-  <defs>
-    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{INDIGO}"/><stop offset="1" stop-color="{CYAN}"/></linearGradient>
-    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="{INDIGO}" stop-opacity="{c["glow"]}"/><stop offset="1" stop-color="{INDIGO}" stop-opacity="0"/></radialGradient>
-  </defs>
-  <style>
-    .t {{ font: 700 25px {FONT}; fill: {c["title"]}; }}
-    .desc {{ font: 17px {FONT}; fill: {c["text"]}; }}
-    .chip {{ font: 600 14px {FONT}; fill: {c["text"]}; }}
-    .st {{ font: 700 12px {FONT}; fill: {stext}; letter-spacing: .5px; }}
-  </style>
-  <rect x="1" y="1" width="598" height="198" rx="18" fill="{c["bg"]}" stroke="{c["border"]}"/>
-  <rect x="1" y="1" width="598" height="198" rx="18" fill="url(#glow)"/>
-  <rect x="1" y="1" width="5" height="198" rx="2.5" fill="url(#b)"/>
-  <text x="28" y="57" font-size="26" font-family="{FONT}">{emoji}</text>
-  <text x="66" y="57" class="t">{escape(title)}</text>
-  <rect x="{572 - sw:.0f}" y="34" width="{sw:.0f}" height="26" rx="13" fill="{sfill}"/>
-  <text x="{572 - sw / 2:.0f}" y="51" text-anchor="middle" class="st">{escape(status.upper())}</text>
-  {d}
-  {"".join(chip_svg)}
-</svg>'''
-
-
-SECTIONS = [("about", "About me", "👋"), ("stack", "Tech stack", "🧰"), ("projects", "Featured projects", "🚀"), ("stats", "GitHub at a glance", "📊")]
+SECTIONS = [("about", "About me", "👋"), ("now", "Now building", "🔨"), ("stack", "Tech stack", "🧰"),
+            ("projects", "Featured projects", "🚀"), ("shipped", "Recently shipped", "✅"), ("stats", "GitHub at a glance", "📊")]
 
 if __name__ == "__main__":
     write("header.svg", header())
     write("divider.svg", divider())
     for slug, title, emoji in SECTIONS:
         write(f"sections/{slug}.svg", section(title, emoji))
-    for p in PROJECTS:
-        for th in THEMES:
-            write(f"cards/{p[0]}-{th}.svg", card(p, th))
     print("assets built")

@@ -1,0 +1,2 @@
+# Keep helper scripts out of GitHub language stats (profile repo is not project work)
+*.py linguist-detectable=false

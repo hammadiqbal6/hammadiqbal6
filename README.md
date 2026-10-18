@@ -1,15 +1,28 @@
 <div align="center">
 <img src="./assets/header.svg" width="100%" alt="Hammad Iqbal: Full-Stack &amp; CRM Developer" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/updated-light.svg" alt="Last auto-update time (PKT)" /></picture>
 </div>
 
 <img src="./assets/sections/about.svg" height="46" alt="About me" />
 
 I'm a **full-stack developer** who builds business software end to end: **Laravel and Node APIs**, **React / Next.js** front ends and **React Native** mobile apps. I also do **CRM development**: lead pipelines and approval workflows, role-based access, customer onboarding portals, invoicing and document handling.
 
-- 🧩 **Building now:** a visa-agency CRM (Laravel 12 + Next.js 16) and two AI-assisted trading bots for crypto and stocks
 - 🛠️ **Focus:** clean APIs, practical dashboards and automating business workflows
 - 📍 **Based in** Pakistan · open to freelance and full-time work
+<!--START_PORTFOLIO-->
 - 🌐 **Portfolios** (full-stack & CRM): *coming soon*
+<!--END_PORTFOLIO-->
+
+<img src="./assets/sections/now.svg" height="46" alt="Now building" />
+
+<!--START_NOW-->
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push today
+- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push today
+- 🔨 [**realtor-clone-react**](https://github.com/hammadiqbal6/realtor-clone-react) · JavaScript: 9 commits in the last year, last push today
+- 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 8 commits in the last year, last push today
+- 🔒 plus 21 contributions to private projects (incl. the in-progress trading bots)
+<!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -59,23 +72,33 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/projects.svg" height="46" alt="Featured projects" />
 
 <p align="center">
-<a href="https://github.com/hammadiqbal6/fullstack-crm"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/fullstack-crm-dark.svg" /><img src="./assets/cards/fullstack-crm-light.svg" width="49%" alt="fullstack-crm" /></picture></a>
-<a href="https://github.com/hammadiqbal6/bulk-excel"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bulk-excel-dark.svg" /><img src="./assets/cards/bulk-excel-light.svg" width="49%" alt="bulk-excel" /></picture></a>
+<a href="https://github.com/hammadiqbal6/fullstack-crm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-fullstack-crm-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-fullstack-crm-light.svg" width="49%" alt="fullstack-crm" /></picture></a>
+<a href="https://github.com/hammadiqbal6/bulk-excel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-bulk-excel-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-bulk-excel-light.svg" width="49%" alt="bulk-excel" /></picture></a>
 </p>
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/crypto-trading-bot-dark.svg" /><img src="./assets/cards/crypto-trading-bot-light.svg" width="49%" alt="crypto-trading-bot" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/stock-trading-bot-dark.svg" /><img src="./assets/cards/stock-trading-bot-light.svg" width="49%" alt="stock-trading-bot" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-crypto-trading-bot-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-crypto-trading-bot-light.svg" width="49%" alt="crypto-trading-bot" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-stock-trading-bot-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-stock-trading-bot-light.svg" width="49%" alt="stock-trading-bot" /></picture>
 </p>
 <p align="center">
-<a href="https://github.com/hammadiqbal6/Promptopia"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Promptopia-dark.svg" /><img src="./assets/cards/Promptopia-light.svg" width="49%" alt="Promptopia" /></picture></a>
-<a href="https://github.com/hammadiqbal6/Donewithit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Donewithit-dark.svg" /><img src="./assets/cards/Donewithit-light.svg" width="49%" alt="Donewithit" /></picture></a>
+<a href="https://github.com/hammadiqbal6/Donewithit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Donewithit-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Donewithit-light.svg" width="49%" alt="Donewithit" /></picture></a>
+<a href="https://github.com/hammadiqbal6/Promptopia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Promptopia-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Promptopia-light.svg" width="49%" alt="Promptopia" /></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/hammadiqbal6/Vanslife-next"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Vanslife-next-dark.svg" /><img src="./assets/cards/Vanslife-next-light.svg" width="49%" alt="Vanslife-next" /></picture></a>
-<a href="https://github.com/hammadiqbal6/realtor-clone-react"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/realtor-clone-react-dark.svg" /><img src="./assets/cards/realtor-clone-react-light.svg" width="49%" alt="realtor-clone-react" /></picture></a>
+<a href="https://github.com/hammadiqbal6/realtor-clone-react"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-realtor-clone-react-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-realtor-clone-react-light.svg" width="49%" alt="realtor-clone-react" /></picture></a>
+<a href="https://github.com/hammadiqbal6/Vanslife-react"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Vanslife-react-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/card-Vanslife-react-light.svg" width="49%" alt="Vanslife-react" /></picture></a>
 </p>
 
-<sub>Trading bots are private while in development.</sub>
+<p align="center"><sub>Card facts (language, commits, last update, latest PR) refresh automatically every 6 hours. Trading bots are private while in development.</sub></p>
+
+<img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
+
+<!--START_SHIPPED-->
+- ✅ [Auth hydration, cart checkout UX, and a11y polish](https://github.com/hammadiqbal6/Vanslife-react/pull/4) · `Vanslife-react` · today
+- ✅ [Mobile UX polish, 404 page, and dev ergonomics](https://github.com/hammadiqbal6/Promptopia/pull/3) · `Promptopia` · today
+- ✅ [Docs, screenshots, and fleet image polish](https://github.com/hammadiqbal6/Vanslife-react/pull/3) · `Vanslife-react` · today
+- ✅ [Add listing deep links by id for Expo web details](https://github.com/hammadiqbal6/Donewithit/pull/3) · `Donewithit` · today
+- ✅ [Complete DoneWithIt marketplace: extract backend, fix app, portfolio…](https://github.com/hammadiqbal6/Donewithit/pull/2) · `Donewithit` · today
+<!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -86,8 +109,12 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-light.svg" width="49%" alt="Top languages" /></picture>
 </p>
 <p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/activity-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/activity-light.svg" width="49%" alt="Activity over the last 12 weeks" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/tip-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/tip-light.svg" width="49%" alt="Dev tip of the day" /></picture>
+</p>
+<p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-night-rainbow.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-green-animate.svg" width="80%" alt="3D contribution graph" /></picture>
 </p>
-<p align="center"><sub>Cards are generated daily by <a href=".github/workflows/profile-assets.yml">a GitHub Action</a> in this repo (public, non-fork repos only).</sub></p>
+<p align="center"><sub>Everything above is generated by <a href=".github/workflows/profile-assets.yml">this repo's GitHub Action</a> every 6 hours from public data. No third-party stats servers.</sub></p>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
