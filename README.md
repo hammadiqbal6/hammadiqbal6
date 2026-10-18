@@ -11,7 +11,7 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 - 🛠️ **Focus:** clean APIs, practical dashboards and automating business workflows
 - 📍 **Based in** Pakistan · open to freelance and full-time work
 <!--START_PORTFOLIO-->
-- 🌐 **Portfolios** (full-stack & CRM): *coming soon*
+- 🌐 **Portfolios:** [Full-stack](https://hammadiqbal6.github.io/fullstack-portfolio/) · [CRM (SugarCRM / SuiteCRM)](https://hammadiqbal6.github.io/crm-portfolio/)
 <!--END_PORTFOLIO-->
 
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
