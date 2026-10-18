@@ -1,12 +1,8 @@
 <div align="center">
-
 <img src="./assets/header.svg" width="100%" alt="Hammad Iqbal: Full-Stack &amp; CRM Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;CRM+Development+%26+Business+Automation;Laravel+%7C+Next.js+%7C+React+%7C+Node;Building+AI+trading+bots+(in+progress)" alt="Full-Stack Developer · CRM Development &amp; Business Automation" />
-
 </div>
 
-## 👋 About me
+<img src="./assets/sections/about.svg" height="46" alt="About me" />
 
 I'm a **full-stack developer** who builds business software end to end: **Laravel and Node APIs**, **React / Next.js** front ends and **React Native** mobile apps. I also do **CRM development**: lead pipelines and approval workflows, role-based access, customer onboarding portals, invoicing and document handling.
 
@@ -15,7 +11,9 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 - 📍 **Based in** Pakistan · open to freelance and full-time work
 - 🌐 **Portfolios** (full-stack & CRM): *coming soon*
 
-## 🧰 Tech stack
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/sections/stack.svg" height="46" alt="Tech stack" />
 
 **Frontend**<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
@@ -56,47 +54,40 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="https://img.shields.io/badge/CRM_Development-0EA5E9?style=for-the-badge" height="28" alt="CRM Development" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
 
-## 🚀 Featured projects
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🗂️ [**fullstack-crm**](https://github.com/hammadiqbal6/fullstack-crm) | Visa-agency CRM: lead approvals, customer onboarding, 5-role RBAC, invoices, documents | Laravel · Next.js · Docker |
-| 📊 [**bulk-excel**](https://github.com/hammadiqbal6/bulk-excel) + [**UI**](https://github.com/hammadiqbal6/bulk-excel-front-end) | Bulk Excel import API and UI for housing-scheme plots | Laravel · React |
-| 🤖 **crypto-trading-bot** 🚧 | Trend + news-sentiment crypto bot, paper trading first *(in progress)* | Python |
-| 📈 **stock-trading-bot** 🚧 | Trend + news-sentiment stock bot, paper trading first *(in progress)* | Python |
-| 💬 [**Promptopia**](https://github.com/hammadiqbal6/Promptopia) | Prompt-sharing web app | Next.js · MongoDB |
-| 📱 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) | Mobile marketplace app with an Express backend | React Native · Express |
-| 🚐 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) | Van-rental app with protected routes | Next.js |
-| 🏠 [**realtor-clone-react**](https://github.com/hammadiqbal6/realtor-clone-react) | Realtor-style property listing clone | React · Tailwind |
-| ✅ [**ReduxWithJest**](https://github.com/hammadiqbal6/ReduxWithJest) | Todo app with persisted Redux state and Jest tests | Redux · Jest |
+<img src="./assets/sections/projects.svg" height="46" alt="Featured projects" />
 
-## 📊 GitHub stats
+<p align="center">
+<a href="https://github.com/hammadiqbal6/fullstack-crm"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/fullstack-crm-dark.svg" /><img src="./assets/cards/fullstack-crm-light.svg" width="49%" alt="fullstack-crm" /></picture></a>
+<a href="https://github.com/hammadiqbal6/bulk-excel"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bulk-excel-dark.svg" /><img src="./assets/cards/bulk-excel-light.svg" width="49%" alt="bulk-excel" /></picture></a>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/crypto-trading-bot-dark.svg" /><img src="./assets/cards/crypto-trading-bot-light.svg" width="49%" alt="crypto-trading-bot" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/stock-trading-bot-dark.svg" /><img src="./assets/cards/stock-trading-bot-light.svg" width="49%" alt="stock-trading-bot" /></picture>
+</p>
+<p align="center">
+<a href="https://github.com/hammadiqbal6/Promptopia"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Promptopia-dark.svg" /><img src="./assets/cards/Promptopia-light.svg" width="49%" alt="Promptopia" /></picture></a>
+<a href="https://github.com/hammadiqbal6/Donewithit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Donewithit-dark.svg" /><img src="./assets/cards/Donewithit-light.svg" width="49%" alt="Donewithit" /></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/hammadiqbal6/Vanslife-next"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/Vanslife-next-dark.svg" /><img src="./assets/cards/Vanslife-next-light.svg" width="49%" alt="Vanslife-next" /></picture></a>
+<a href="https://github.com/hammadiqbal6/realtor-clone-react"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/realtor-clone-react-dark.svg" /><img src="./assets/cards/realtor-clone-react-light.svg" width="49%" alt="realtor-clone-react" /></picture></a>
+</p>
 
-<div align="center">
+<sub>Trading bots are private while in development.</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hammadiqbal6&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadiqbal6&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default&bg_color=ffffff&border_color=d0d7de" height="180" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadiqbal6&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadiqbal6&layout=compact&langs_count=8&card_width=320&theme=default&bg_color=ffffff&border_color=d0d7de" height="180" alt="Top languages" />
-</picture>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hammadiqbal6&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=hammadiqbal6&theme=default&background=ffffff&border=d0d7de" height="180" alt="GitHub streak" />
-</picture>
+<img src="./assets/sections/stats.svg" height="46" alt="GitHub at a glance" />
 
-</div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/github-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
-</div>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-overview-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-overview-light.svg" width="49%" alt="GitHub overview" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-dark.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/stats-languages-light.svg" width="49%" alt="Top languages" /></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-night-rainbow.svg" /><img src="https://raw.githubusercontent.com/hammadiqbal6/hammadiqbal6/output/profile-green-animate.svg" width="98%" alt="3D contribution graph" /></picture>
+</p>
+<p align="center"><sub>Cards are generated daily by <a href=".github/workflows/profile-assets.yml">a GitHub Action</a> in this repo (public, non-fork repos only).</sub></p>
 
 <img src="./assets/footer.svg" width="100%" alt="" />

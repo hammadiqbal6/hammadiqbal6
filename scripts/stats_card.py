@@ -27,7 +27,7 @@ query($login: String!) {
     }
     repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false) {
       totalCount
-      nodes { stargazerCount languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name color } } } }
+      nodes { name stargazerCount languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name color } } } }
     }
   }
 }"""
@@ -46,7 +46,11 @@ def fetch(login: str) -> dict:
                 data = json.load(r)
             if "errors" in data:
                 raise RuntimeError(data["errors"])
-            return data["data"]["user"]
+            user = data["data"]["user"]
+            # exclude the profile repo itself (its helper scripts are not project work)
+            user["repositories"]["nodes"] = [n for n in user["repositories"]["nodes"] if n["name"].lower() != login.lower()]
+            user["repositories"]["totalCount"] = len(user["repositories"]["nodes"])
+            return user
         except Exception:  # transient network errors
             if attempt == 2:
                 raise
