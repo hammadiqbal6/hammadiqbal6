@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Port selected pieces from the redesign onto the live CRM design](https://github.com/hammadiqbal6/crm-portfolio/pull/3) · `crm-portfolio` · yesterday
-- ✅ [Revert to PR #1 design + case-study projects (audit option b)](https://github.com/hammadiqbal6/fullstack-portfolio/pull/3) · `fullstack-portfolio` · yesterday
-- ✅ [Modernize portfolio with award-style 2026 design](https://github.com/hammadiqbal6/fullstack-portfolio/pull/2) · `fullstack-portfolio` · yesterday
-- ✅ [Polish host UX and run Playwright smoke in CI](https://github.com/hammadiqbal6/Vanslife-next/pull/3) · `Vanslife-next` · yesterday
-- ✅ [Portfolio site + GitHub Pages deploy](https://github.com/hammadiqbal6/crm-portfolio/pull/1) · `crm-portfolio` · yesterday
+- ✅ [LocalFile Convert: production in-browser niche file converters site](https://github.com/hammadiqbal6/file-converter-tools/pull/1) · `file-converter-tools` · today
+- ✅ [Proof bundle + expanded deployment guide](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/4) · `fiber-arts-calculators` · today
+- ✅ [DocuForge: production niche business document generators site](https://github.com/hammadiqbal6/business-document-generators/pull/1) · `business-document-generators` · today
+- ✅ [Pet calculators site: 11 tools, SEO stack, audits, and agent tooling](https://github.com/hammadiqbal6/pet-calculators/pull/1) · `pet-calculators` · today
+- ✅ [Production-ready payment &amp; creator fee calculator site](https://github.com/hammadiqbal6/payment-fee-calculators/pull/1) · `payment-fee-calculators` · today
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
