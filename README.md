@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push yesterday
-- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push yesterday
-- 🔨 [**fullstack-portfolio**](https://github.com/hammadiqbal6/fullstack-portfolio) · JavaScript: 12 commits in the last year, last push yesterday
-- 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 12 commits in the last year, last push yesterday
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 2 days ago
+- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 2 days ago
+- 🔨 [**fullstack-portfolio**](https://github.com/hammadiqbal6/fullstack-portfolio) · JavaScript: 12 commits in the last year, last push 2 days ago
+- 🔨 [**Vanslife-next**](https://github.com/hammadiqbal6/Vanslife-next) · JavaScript: 12 commits in the last year, last push 2 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [LocalFile Convert: production in-browser niche file converters site](https://github.com/hammadiqbal6/file-converter-tools/pull/1) · `file-converter-tools` · today
-- ✅ [Proof bundle + expanded deployment guide](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/4) · `fiber-arts-calculators` · today
-- ✅ [DocuForge: production niche business document generators site](https://github.com/hammadiqbal6/business-document-generators/pull/1) · `business-document-generators` · today
-- ✅ [Pet calculators site: 11 tools, SEO stack, audits, and agent tooling](https://github.com/hammadiqbal6/pet-calculators/pull/1) · `pet-calculators` · today
-- ✅ [Production-ready payment &amp; creator fee calculator site](https://github.com/hammadiqbal6/payment-fee-calculators/pull/1) · `payment-fee-calculators` · today
+- ✅ [Remove visible placeholders and complete site config via env](https://github.com/hammadiqbal6/payment-fee-calculators/pull/5) · `payment-fee-calculators` · today
+- ✅ [Config cleanup: env defaults, OG image, IndexNow intact](https://github.com/hammadiqbal6/business-document-generators/pull/7) · `business-document-generators` · today
+- ✅ [Add IndexNow sitemap ping after Cloudflare Worker deploy](https://github.com/hammadiqbal6/home-garden-calculators/pull/5) · `home-garden-calculators` · today
+- ✅ [Add IndexNow, AdSense-facing copy cleanup, author env, favicon](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/8) · `fiber-arts-calculators` · today
+- ✅ [Fix workers.dev noindex and remove AdSense placeholders](https://github.com/hammadiqbal6/pet-calculators/pull/6) · `pet-calculators` · today
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
