@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Remove visible placeholders and complete site config via env](https://github.com/hammadiqbal6/payment-fee-calculators/pull/5) · `payment-fee-calculators` · today
-- ✅ [Config cleanup: env defaults, OG image, IndexNow intact](https://github.com/hammadiqbal6/business-document-generators/pull/7) · `business-document-generators` · today
-- ✅ [Add IndexNow sitemap ping after Cloudflare Worker deploy](https://github.com/hammadiqbal6/home-garden-calculators/pull/5) · `home-garden-calculators` · today
-- ✅ [Add IndexNow, AdSense-facing copy cleanup, author env, favicon](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/8) · `fiber-arts-calculators` · today
-- ✅ [Fix workers.dev noindex and remove AdSense placeholders](https://github.com/hammadiqbal6/pet-calculators/pull/6) · `pet-calculators` · today
+- ✅ [Fix mobile SEO audit + one-person E-E-A-T playbook](https://github.com/hammadiqbal6/pet-calculators/pull/7) · `pet-calculators` · today
+- ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook (FiberCalc)](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/9) · `fiber-arts-calculators` · today
+- ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook (YardCalc)](https://github.com/hammadiqbal6/home-garden-calculators/pull/6) · `home-garden-calculators` · today
+- ✅ [Fix mobile SEO audit: editor loader, TrustBlock, favicons, GA4 consent](https://github.com/hammadiqbal6/business-document-generators/pull/8) · `business-document-generators` · today
+- ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook](https://github.com/hammadiqbal6/payment-fee-calculators/pull/7) · `payment-fee-calculators` · today
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
