@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 5 days ago
-- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 5 days ago
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 12 commits in the last year, last push today
-- 🔨 [**fullstack-portfolio**](https://github.com/hammadiqbal6/fullstack-portfolio) · JavaScript: 12 commits in the last year, last push 5 days ago
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 6 days ago
+- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 6 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 12 commits in the last year, last push yesterday
+- 🔨 [**fullstack-portfolio**](https://github.com/hammadiqbal6/fullstack-portfolio) · JavaScript: 12 commits in the last year, last push 6 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [SEO meta/FAQ guardrails + EmailJS contact form](https://github.com/hammadiqbal6/payment-fee-calculators/pull/9) · `payment-fee-calculators` · today
-- ✅ [SEO/AEO audit fixes: guides, linking, guardrails, CI](https://github.com/hammadiqbal6/payment-fee-calculators/pull/8) · `payment-fee-calculators` · today
-- ✅ [SEO/AEO audit fixes: 6 guides, 308 worker, guardrails, custom-domain…](https://github.com/hammadiqbal6/pet-calculators/pull/9) · `pet-calculators` · today
-- ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook](https://github.com/hammadiqbal6/payment-fee-calculators/pull/7) · `payment-fee-calculators` · 3 days ago
-- ✅ [Remove visible placeholders and complete site config via env](https://github.com/hammadiqbal6/payment-fee-calculators/pull/5) · `payment-fee-calculators` · 3 days ago
+- ✅ [SEO meta/FAQ guardrails + EmailJS contact form](https://github.com/hammadiqbal6/payment-fee-calculators/pull/9) · `payment-fee-calculators` · yesterday
+- ✅ [SEO/AEO audit fixes: guides, linking, guardrails, CI](https://github.com/hammadiqbal6/payment-fee-calculators/pull/8) · `payment-fee-calculators` · yesterday
+- ✅ [SEO/AEO audit fixes: 6 guides, 308 worker, guardrails, custom-domain…](https://github.com/hammadiqbal6/pet-calculators/pull/9) · `pet-calculators` · yesterday
+- ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook](https://github.com/hammadiqbal6/payment-fee-calculators/pull/7) · `payment-fee-calculators` · 4 days ago
+- ✅ [Remove visible placeholders and complete site config via env](https://github.com/hammadiqbal6/payment-fee-calculators/pull/5) · `payment-fee-calculators` · 4 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
