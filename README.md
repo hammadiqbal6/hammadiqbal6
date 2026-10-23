@@ -95,9 +95,9 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <!--START_SHIPPED-->
 - ✅ [SEO meta/FAQ guardrails + EmailJS contact form](https://github.com/hammadiqbal6/payment-fee-calculators/pull/9) · `payment-fee-calculators` · today
 - ✅ [SEO/AEO audit fixes: guides, linking, guardrails, CI](https://github.com/hammadiqbal6/payment-fee-calculators/pull/8) · `payment-fee-calculators` · today
+- ✅ [SEO/AEO audit fixes: 6 guides, 308 worker, guardrails, custom-domain…](https://github.com/hammadiqbal6/pet-calculators/pull/9) · `pet-calculators` · today
 - ✅ [Mobile SEO audit fixes + one-person E-E-A-T playbook](https://github.com/hammadiqbal6/payment-fee-calculators/pull/7) · `payment-fee-calculators` · 3 days ago
 - ✅ [Remove visible placeholders and complete site config via env](https://github.com/hammadiqbal6/payment-fee-calculators/pull/5) · `payment-fee-calculators` · 3 days ago
-- ✅ [Add IndexNow support for post-deploy sitemap pings](https://github.com/hammadiqbal6/payment-fee-calculators/pull/4) · `payment-fee-calculators` · 3 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
