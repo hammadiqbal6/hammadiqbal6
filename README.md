@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 6 days ago
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 13 commits in the last year, last push today
-- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 6 days ago
-- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 12 commits in the last year, last push today
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 7 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 15 commits in the last year, last push yesterday
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 13 commits in the last year, last push yesterday
+- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 7 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Fix fragile Patreon/Shopify rate-watcher extractors](https://github.com/hammadiqbal6/payment-fee-calculators/pull/12) · `payment-fee-calculators` · today
-- ✅ [SEO/AEO audit remediation: answer-first fold, cookie bar, checklist CI](https://github.com/hammadiqbal6/file-converter-tools/pull/9) · `file-converter-tools` · today
-- ✅ [SEO/AEO answer-first fixes: open editors, remove KD notes, page check…](https://github.com/hammadiqbal6/business-document-generators/pull/12) · `business-document-generators` · today
-- ✅ [SEO/AEO audit fixes: raw links, blanket yardage, answer-first, page c…](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/12) · `fiber-arts-calculators` · today
-- ✅ [SEO/AEO audit fixes: trust without vet, answer-first hubs, page check…](https://github.com/hammadiqbal6/pet-calculators/pull/11) · `pet-calculators` · today
+- ✅ [Allow crawlers to fetch /embed/ so noindex can take effect](https://github.com/hammadiqbal6/home-garden-calculators/pull/10) · `home-garden-calculators` · yesterday
+- ✅ [Add meta description to embed widget pages](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/13) · `fiber-arts-calculators` · yesterday
+- ✅ [Fix Bing Site Scan: meta description + h1 on embed pages](https://github.com/hammadiqbal6/business-document-generators/pull/13) · `business-document-generators` · yesterday
+- ✅ [Fix fragile Patreon/Shopify rate-watcher extractors](https://github.com/hammadiqbal6/payment-fee-calculators/pull/12) · `payment-fee-calculators` · yesterday
+- ✅ [SEO/AEO audit remediation: answer-first fold, cookie bar, checklist CI](https://github.com/hammadiqbal6/file-converter-tools/pull/9) · `file-converter-tools` · yesterday
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
