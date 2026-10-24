@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="GitHub overview">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#6366F1" stop-opacity="0.22"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>.h{font:700 21px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif;fill:#F0F6FC}.l{font:16px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif;fill:#9DA7B3}.v{font:700 26px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif;fill:#F0F6FC}.s{font:600 15px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif;fill:#9DA7B3}.m{font:14px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif;fill:#9DA7B3}
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="#161B22" stroke="#30363D"/>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="url(#glow)"/>
+  <rect x="28" y="30" width="4" height="22" rx="2" fill="url(#b)"/><text x="42" y="48" class="h">GitHub overview</text><text x="42" y="100" class="v">291</text><text x="42" y="122" class="l">Contributions (last year)</text><text x="322" y="100" class="v">23</text><text x="322" y="122" class="l">Public repositories</text><text x="42" y="154" class="v">185</text><text x="42" y="176" class="l">Commits (last year)</text><text x="322" y="154" class="v">94</text><text x="322" y="176" class="l">Pull requests (last year)</text><text x="42" y="208" class="v">12</text><text x="42" y="230" class="l">Languages used</text><text x="322" y="208" class="v">2018</text><text x="322" y="230" class="l">On GitHub since</text>
+</svg>

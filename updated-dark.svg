@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="299" height="28" viewBox="0 0 299 28" role="img" aria-label="Auto-updated 24 Oct 2026, 16:04 PKT">
+  <style>.p{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}@media (prefers-reduced-motion: reduce){.p{animation:none}}</style>
+  <rect x="0.5" y="0.5" width="298" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+  <circle class="p" cx="16" cy="14" r="4.5" fill="#22C55E"/>
+  <text x="28" y="18.5" font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#9DA7B3">Auto-updated 24 Oct 2026, 16:04 PKT</text>
+</svg>
