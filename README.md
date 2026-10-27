@@ -19,9 +19,9 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 
 <!--START_NOW-->
 - 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 9 days ago
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 15 commits in the last year, last push 3 days ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 13 commits in the last year, last push 3 days ago
-- 🔨 [**Vanslife-react**](https://github.com/hammadiqbal6/Vanslife-react) · JavaScript: 13 commits in the last year, last push 9 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 16 commits in the last year, last push today
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 14 commits in the last year, last push today
+- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 13 commits in the last year, last push today
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Allow crawlers to fetch /embed/ so noindex can take effect](https://github.com/hammadiqbal6/home-garden-calculators/pull/10) · `home-garden-calculators` · 3 days ago
-- ✅ [Add meta description to embed widget pages](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/13) · `fiber-arts-calculators` · 3 days ago
-- ✅ [Fix Bing Site Scan: meta description + h1 on embed pages](https://github.com/hammadiqbal6/business-document-generators/pull/13) · `business-document-generators` · 3 days ago
-- ✅ [Fix fragile Patreon/Shopify rate-watcher extractors](https://github.com/hammadiqbal6/payment-fee-calculators/pull/12) · `payment-fee-calculators` · 3 days ago
-- ✅ [SEO/AEO audit remediation: answer-first fold, cookie bar, checklist CI](https://github.com/hammadiqbal6/file-converter-tools/pull/9) · `file-converter-tools` · 3 days ago
+- ✅ [Fix PetCalc UI/UX audit: dark-mode AA, validation, layout](https://github.com/hammadiqbal6/pet-calculators/pull/12) · `pet-calculators` · today
+- ✅ [fix UI/UX audit: consent-gated GA, dark mode, a11y polish](https://github.com/hammadiqbal6/file-converter-tools/pull/10) · `file-converter-tools` · today
+- ✅ [Fix FiberCalc UI/UX audit: dark mode, validation, a11y polish](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/14) · `fiber-arts-calculators` · today
+- ✅ [Fix DocuForge UI/UX audit: dark mode, cookies, mobile a11y](https://github.com/hammadiqbal6/business-document-generators/pull/14) · `business-document-generators` · today
+- ✅ [Fix FeeCalc UI/UX audit: dark mode, validation, layout, tap targets](https://github.com/hammadiqbal6/payment-fee-calculators/pull/14) · `payment-fee-calculators` · today
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
