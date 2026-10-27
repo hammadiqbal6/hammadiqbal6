@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 9 days ago
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 16 commits in the last year, last push today
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 14 commits in the last year, last push today
-- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 13 commits in the last year, last push today
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 10 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 17 commits in the last year, last push yesterday
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 15 commits in the last year, last push yesterday
+- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 14 commits in the last year, last push yesterday
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Fix PetCalc UI/UX audit: dark-mode AA, validation, layout](https://github.com/hammadiqbal6/pet-calculators/pull/12) · `pet-calculators` · today
-- ✅ [fix UI/UX audit: consent-gated GA, dark mode, a11y polish](https://github.com/hammadiqbal6/file-converter-tools/pull/10) · `file-converter-tools` · today
-- ✅ [Fix FiberCalc UI/UX audit: dark mode, validation, a11y polish](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/14) · `fiber-arts-calculators` · today
-- ✅ [Fix DocuForge UI/UX audit: dark mode, cookies, mobile a11y](https://github.com/hammadiqbal6/business-document-generators/pull/14) · `business-document-generators` · today
-- ✅ [Fix FeeCalc UI/UX audit: dark mode, validation, layout, tap targets](https://github.com/hammadiqbal6/payment-fee-calculators/pull/14) · `payment-fee-calculators` · today
+- ✅ [Speed up PR CI + add UI/UX Pro Max skill](https://github.com/hammadiqbal6/home-garden-calculators/pull/12) · `home-garden-calculators` · yesterday
+- ✅ [Fix YardCalc UI/UX audit (dark mode AA, cookie, a11y)](https://github.com/hammadiqbal6/home-garden-calculators/pull/11) · `home-garden-calculators` · yesterday
+- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/file-converter-tools/pull/11) · `file-converter-tools` · yesterday
+- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/15) · `fiber-arts-calculators` · yesterday
+- ✅ [Speed up PR CI and add UI/UX Pro Max skill](https://github.com/hammadiqbal6/pet-calculators/pull/13) · `pet-calculators` · yesterday
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
