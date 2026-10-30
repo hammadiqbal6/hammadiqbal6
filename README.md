@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 12 days ago
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 17 commits in the last year, last push 3 days ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 15 commits in the last year, last push 3 days ago
-- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 14 commits in the last year, last push 3 days ago
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 13 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 17 commits in the last year, last push 4 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 15 commits in the last year, last push 4 days ago
+- 🔨 [**pet-calculators**](https://github.com/hammadiqbal6/pet-calculators) · Astro: 14 commits in the last year, last push 4 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Speed up PR CI + add UI/UX Pro Max skill](https://github.com/hammadiqbal6/home-garden-calculators/pull/12) · `home-garden-calculators` · 3 days ago
-- ✅ [Fix YardCalc UI/UX audit (dark mode AA, cookie, a11y)](https://github.com/hammadiqbal6/home-garden-calculators/pull/11) · `home-garden-calculators` · 3 days ago
-- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/file-converter-tools/pull/11) · `file-converter-tools` · 3 days ago
-- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/15) · `fiber-arts-calculators` · 3 days ago
-- ✅ [Speed up PR CI and add UI/UX Pro Max skill](https://github.com/hammadiqbal6/pet-calculators/pull/13) · `pet-calculators` · 3 days ago
+- ✅ [Speed up PR CI + add UI/UX Pro Max skill](https://github.com/hammadiqbal6/home-garden-calculators/pull/12) · `home-garden-calculators` · 4 days ago
+- ✅ [Fix YardCalc UI/UX audit (dark mode AA, cookie, a11y)](https://github.com/hammadiqbal6/home-garden-calculators/pull/11) · `home-garden-calculators` · 4 days ago
+- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/file-converter-tools/pull/11) · `file-converter-tools` · 4 days ago
+- ✅ [Fast PR CI + UI/UX Pro Max skill](https://github.com/hammadiqbal6/fiber-arts-calculators/pull/15) · `fiber-arts-calculators` · 4 days ago
+- ✅ [Speed up PR CI and add UI/UX Pro Max skill](https://github.com/hammadiqbal6/pet-calculators/pull/13) · `pet-calculators` · 4 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
