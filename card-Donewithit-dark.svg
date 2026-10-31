@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250" role="img" aria-label="Donewithit: Second-hand marketplace: JWT auth, listings, photo posts, seller messaging, offline notice">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#6366F1" stop-opacity="0.22"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .t { font: 700 25px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #F0F6FC; }
+    .desc { font: 17px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #9DA7B3; }
+    .chip { font: 600 14px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #9DA7B3; }
+    .st { font: 700 12px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #A5B4FC; letter-spacing: .5px; }
+    .fact { font: 600 14px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #F0F6FC; }
+    .fact2 { font: 14px Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; fill: #9DA7B3; }
+  </style>
+  <rect x="1" y="1" width="598" height="248" rx="18" fill="#161B22" stroke="#30363D"/>
+  <rect x="1" y="1" width="598" height="248" rx="18" fill="url(#glow)"/>
+  <rect x="1" y="1" width="5" height="248" rx="2.5" fill="url(#b)"/>
+  <text x="28" y="52" font-size="26" font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif">📱</text>
+  <text x="66" y="52" class="t">Donewithit</text>
+  <rect x="500" y="29" width="72" height="26" rx="13" fill="#1E2140"/>
+  <text x="536" y="46" text-anchor="middle" class="st">MOBILE</text>
+  <text x="28" y="90" class="desc">Second-hand marketplace: JWT auth, listings,</text><text x="28" y="113" class="desc">photo posts, seller messaging, offline notice</text>
+  <rect x="28" y="128" width="125" height="30" rx="15" fill="#0D1117" stroke="#30363D"/><text x="91" y="148" text-anchor="middle" class="chip">React Native</text><rect x="161.2" y="128" width="56" height="30" rx="15" fill="#0D1117" stroke="#30363D"/><text x="189" y="148" text-anchor="middle" class="chip">Expo</text><rect x="225.6" y="128" width="82" height="30" rx="15" fill="#0D1117" stroke="#30363D"/><text x="267" y="148" text-anchor="middle" class="chip">Express</text><rect x="315.79999999999995" y="128" width="48" height="30" rx="15" fill="#0D1117" stroke="#30363D"/><text x="340" y="148" text-anchor="middle" class="chip">JWT</text>
+  <line x1="28" y1="176" x2="572" y2="176" stroke="#30363D"/>
+  <circle cx="34" cy="196" r="6" fill="#f1e05a"/><text x="46" y="201" class="fact">JavaScript  ·  21 commits  ·  updated 13 days ago</text><text x="28" y="226" class="fact2">↳ latest PR #3: Add listing deep links by id for Expo web details</text>
+</svg>
