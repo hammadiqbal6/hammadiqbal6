@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 23 commits in the last year, last push 5 days ago
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 25 days ago
-- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 20 commits in the last year, last push 5 days ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 5 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 23 commits in the last year, last push 6 days ago
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 26 days ago
+- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 20 commits in the last year, last push 6 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 6 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Make footer directory badges data-driven via PUBLIC_DIRECTORY_BADGES](https://github.com/hammadiqbal6/business-document-generators/pull/21) · `business-document-generators` · 5 days ago
-- ✅ [Make footer directory badges data-driven via PUBLIC_DIRECTORY_BADGES](https://github.com/hammadiqbal6/home-garden-calculators/pull/18) · `home-garden-calculators` · 5 days ago
-- ✅ [Add Featured on Fazier badge to site footer](https://github.com/hammadiqbal6/business-document-generators/pull/20) · `business-document-generators` · 5 days ago
-- ✅ [Add Featured on Fazier badge to site footer](https://github.com/hammadiqbal6/home-garden-calculators/pull/17) · `home-garden-calculators` · 5 days ago
-- ✅ [Keep workers.dev disabled on deploy; www-only legacy redirects](https://github.com/hammadiqbal6/home-garden-calculators/pull/16) · `home-garden-calculators` · 5 days ago
+- ✅ [Make footer directory badges data-driven via PUBLIC_DIRECTORY_BADGES](https://github.com/hammadiqbal6/business-document-generators/pull/21) · `business-document-generators` · 6 days ago
+- ✅ [Make footer directory badges data-driven via PUBLIC_DIRECTORY_BADGES](https://github.com/hammadiqbal6/home-garden-calculators/pull/18) · `home-garden-calculators` · 6 days ago
+- ✅ [Add Featured on Fazier badge to site footer](https://github.com/hammadiqbal6/business-document-generators/pull/20) · `business-document-generators` · 6 days ago
+- ✅ [Add Featured on Fazier badge to site footer](https://github.com/hammadiqbal6/home-garden-calculators/pull/17) · `home-garden-calculators` · 6 days ago
+- ✅ [Keep workers.dev disabled on deploy; www-only legacy redirects](https://github.com/hammadiqbal6/home-garden-calculators/pull/16) · `home-garden-calculators` · 6 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
