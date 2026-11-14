@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 31 commits in the last year, last push yesterday
-- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 29 commits in the last year, last push yesterday
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 27 days ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 7 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 31 commits in the last year, last push 2 days ago
+- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 29 commits in the last year, last push 2 days ago
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 28 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 8 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Fix GA4 no-data: grant consent before config and page_view on Accept](https://github.com/hammadiqbal6/home-garden-calculators/pull/27) · `home-garden-calculators` · yesterday
-- ✅ [SEO/AEO remaining fixes + Workers Observability](https://github.com/hammadiqbal6/business-document-generators/pull/29) · `business-document-generators` · yesterday
-- ✅ [Close remaining SEO/AEO audit gaps + Workers Observability](https://github.com/hammadiqbal6/home-garden-calculators/pull/26) · `home-garden-calculators` · yesterday
-- ✅ [Add asphalt, brick/CMU, lumber, and rebar calculators](https://github.com/hammadiqbal6/home-garden-calculators/pull/25) · `home-garden-calculators` · yesterday
-- ✅ [Add five niche document generators (ICA, timesheet, service agreement…](https://github.com/hammadiqbal6/business-document-generators/pull/28) · `business-document-generators` · yesterday
+- ✅ [Fix GA4 no-data: grant consent before config and page_view on Accept](https://github.com/hammadiqbal6/home-garden-calculators/pull/27) · `home-garden-calculators` · 2 days ago
+- ✅ [SEO/AEO remaining fixes + Workers Observability](https://github.com/hammadiqbal6/business-document-generators/pull/29) · `business-document-generators` · 2 days ago
+- ✅ [Close remaining SEO/AEO audit gaps + Workers Observability](https://github.com/hammadiqbal6/home-garden-calculators/pull/26) · `home-garden-calculators` · 2 days ago
+- ✅ [Add asphalt, brick/CMU, lumber, and rebar calculators](https://github.com/hammadiqbal6/home-garden-calculators/pull/25) · `home-garden-calculators` · 2 days ago
+- ✅ [Add five niche document generators (ICA, timesheet, service agreement…](https://github.com/hammadiqbal6/business-document-generators/pull/28) · `business-document-generators` · 2 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
