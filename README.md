@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 34 commits in the last year, last push today
-- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 32 commits in the last year, last push today
-- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 28 days ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 8 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 34 commits in the last year, last push yesterday
+- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 32 commits in the last year, last push yesterday
+- 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 29 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 9 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Embed nofollow credits + YMYL trust (IndexNow already live)](https://github.com/hammadiqbal6/business-document-generators/pull/32) · `business-document-generators` · today
-- ✅ [Embed nofollow credits + E-E-A-T trust (IndexNow already live)](https://github.com/hammadiqbal6/home-garden-calculators/pull/30) · `home-garden-calculators` · today
-- ✅ [GSC impression SEO: Sonotube bags table, guide depth, embed metas](https://github.com/hammadiqbal6/home-garden-calculators/pull/29) · `home-garden-calculators` · today
-- ✅ [Strengthen GSC impression pages (receipt, wedding, estimate, catering)](https://github.com/hammadiqbal6/business-document-generators/pull/31) · `business-document-generators` · today
-- ✅ [Fix jev-seo audit findings (titles, contact, llms.txt, schema)](https://github.com/hammadiqbal6/business-document-generators/pull/30) · `business-document-generators` · today
+- ✅ [Embed nofollow credits + YMYL trust (IndexNow already live)](https://github.com/hammadiqbal6/business-document-generators/pull/32) · `business-document-generators` · yesterday
+- ✅ [Embed nofollow credits + E-E-A-T trust (IndexNow already live)](https://github.com/hammadiqbal6/home-garden-calculators/pull/30) · `home-garden-calculators` · yesterday
+- ✅ [GSC impression SEO: Sonotube bags table, guide depth, embed metas](https://github.com/hammadiqbal6/home-garden-calculators/pull/29) · `home-garden-calculators` · yesterday
+- ✅ [Strengthen GSC impression pages (receipt, wedding, estimate, catering)](https://github.com/hammadiqbal6/business-document-generators/pull/31) · `business-document-generators` · yesterday
+- ✅ [Fix jev-seo audit findings (titles, contact, llms.txt, schema)](https://github.com/hammadiqbal6/business-document-generators/pull/30) · `business-document-generators` · yesterday
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
