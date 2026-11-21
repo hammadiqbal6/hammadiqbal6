@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 43 commits in the last year, last push yesterday
-- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 38 commits in the last year, last push yesterday
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 43 commits in the last year, last push 2 days ago
+- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 38 commits in the last year, last push 2 days ago
 - 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 1 mo ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 14 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 15 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [Add Agathox ownership verification (meta + .well-known file)](https://github.com/hammadiqbal6/home-garden-calculators/pull/49) · `home-garden-calculators` · yesterday
-- ✅ [Add Agathox ownership verification (meta + .well-known)](https://github.com/hammadiqbal6/business-document-generators/pull/53) · `business-document-generators` · yesterday
-- ✅ [Combined: legacy guides human rewrite and AI-style gate](https://github.com/hammadiqbal6/business-document-generators/pull/52) · `business-document-generators` · 2 days ago
-- ✅ [Combined: late fee calculator, roofing/painting presets, PAA guides,…](https://github.com/hammadiqbal6/business-document-generators/pull/51) · `business-document-generators` · 2 days ago
-- ✅ [Combined: sonotube/concrete/bulk cost upgrades, deck footing, footing…](https://github.com/hammadiqbal6/home-garden-calculators/pull/48) · `home-garden-calculators` · 2 days ago
+- ✅ [Add Agathox ownership verification (meta + .well-known file)](https://github.com/hammadiqbal6/home-garden-calculators/pull/49) · `home-garden-calculators` · 2 days ago
+- ✅ [Add Agathox ownership verification (meta + .well-known)](https://github.com/hammadiqbal6/business-document-generators/pull/53) · `business-document-generators` · 2 days ago
+- ✅ [Combined: legacy guides human rewrite and AI-style gate](https://github.com/hammadiqbal6/business-document-generators/pull/52) · `business-document-generators` · 3 days ago
+- ✅ [Combined: late fee calculator, roofing/painting presets, PAA guides,…](https://github.com/hammadiqbal6/business-document-generators/pull/51) · `business-document-generators` · 3 days ago
+- ✅ [Combined: sonotube/concrete/bulk cost upgrades, deck footing, footing…](https://github.com/hammadiqbal6/home-garden-calculators/pull/48) · `home-garden-calculators` · 3 days ago
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
