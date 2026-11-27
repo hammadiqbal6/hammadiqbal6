@@ -18,10 +18,10 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/now.svg" height="46" alt="Now building" />
 
 <!--START_NOW-->
-- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 45 commits in the last year, last push 2 days ago
-- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 40 commits in the last year, last push 2 days ago
+- 🔨 [**business-document-generators**](https://github.com/hammadiqbal6/business-document-generators) · HTML: 48 commits in the last year, last push yesterday
+- 🔨 [**home-garden-calculators**](https://github.com/hammadiqbal6/home-garden-calculators) · TypeScript: 46 commits in the last year, last push yesterday
 - 🔨 [**Donewithit**](https://github.com/hammadiqbal6/Donewithit) · JavaScript: 22 commits in the last year, last push 1 mo ago
-- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 20 days ago
+- 🔨 [**fiber-arts-calculators**](https://github.com/hammadiqbal6/fiber-arts-calculators) · TypeScript: 16 commits in the last year, last push 21 days ago
 <!--END_NOW-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -93,11 +93,11 @@ I'm a **full-stack developer** who builds business software end to end: **Larave
 <img src="./assets/sections/shipped.svg" height="46" alt="Recently shipped" />
 
 <!--START_SHIPPED-->
-- ✅ [SEO authority: Consent Mode v2, sameAs, GSC-prioritized variants](https://github.com/hammadiqbal6/home-garden-calculators/pull/51) · `home-garden-calculators` · 2 days ago
-- ✅ [SEO: Consent Mode v2, sameAs, GSC variant tools (additive)](https://github.com/hammadiqbal6/business-document-generators/pull/55) · `business-document-generators` · 2 days ago
-- ✅ [Sitewide SEO plan: titles, AEO, merges, hubs, durable agent rules](https://github.com/hammadiqbal6/business-document-generators/pull/54) · `business-document-generators` · 5 days ago
-- ✅ [SEO plan: titles, AI Overviews, lumber weight, mulch merge, agent rul…](https://github.com/hammadiqbal6/home-garden-calculators/pull/50) · `home-garden-calculators` · 5 days ago
-- ✅ [Add Agathox ownership verification (meta + .well-known file)](https://github.com/hammadiqbal6/home-garden-calculators/pull/49) · `home-garden-calculators` · 7 days ago
+- ✅ [Sitemap completeness gate + quote-estimate SEO](https://github.com/hammadiqbal6/business-document-generators/pull/58) · `business-document-generators` · yesterday
+- ✅ [Sitemap coverage gate + concrete slab cost SEO](https://github.com/hammadiqbal6/home-garden-calculators/pull/57) · `home-garden-calculators` · yesterday
+- ✅ [SEO fixes: slab cost, concrete, lumber, brick mortar, mulch](https://github.com/hammadiqbal6/home-garden-calculators/pull/56) · `home-garden-calculators` · yesterday
+- ✅ [Serve /404/ HTML body with HTTP 404 from Worker](https://github.com/hammadiqbal6/home-garden-calculators/pull/55) · `home-garden-calculators` · yesterday
+- ✅ [Allow cross-origin iframes for /embed/* widgets only](https://github.com/hammadiqbal6/home-garden-calculators/pull/54) · `home-garden-calculators` · yesterday
 <!--END_SHIPPED-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
